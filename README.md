@@ -1,3 +1,3 @@
 # Publish-MyName
 Profile project
-[live link](https://izunnaya.github.io/Publish-MyName/)
+[Live link](https://izunnaya.github.io/Publish-MyName/)
